@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Answer the questions below by referring the diagram shown below: <br> <img src = 'images/Exp8-q1.png' >",
+    "qid": 1,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": ""
+  },
+  {
+    "question": "For the application shown above, analyse and obtain the simplified algebraic expression for output Y.",
+    "qid": 2,
+    "option_a": "Y =A'BC + AB",
+    "option_b": "Y = A + B",
+    "option_c": "Y = ABC + A + BC",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "If the OR gate in above figure is replaced by AND gate, then obtain the expression for output Y.",
+    "qid": 3,
+    "option_a": "Y = (A + B)(ABC)",
+    "option_b": "Y=1",
+    "option_c": "Y=0",
+    "option_d": "Y = (A + B) + (A'BC)",
+    "correct_option": "c"
+  },
+  {
+    "question": "If the AND gates are replaced by OR and vice versa obtain the simplified expression for output Y.",
+    "qid": 4,
+    "option_a": "Y = AB",
+    "option_b": "Y=(A' + B + C)",
+    "option_c": "Y=AC",
+    "option_d": "Y=A+B",
+    "correct_option": "a"
+  },
+  {
+    "question": "Select the simplified logical expression for output Y if all NOT gates are removed.",
+    "qid": 5,
+    "option_a": "Y = A + B",
+    "option_b": "Y = A.B",
+    "option_c": "Y = 0.",
+    "option_d": "Y = 1",
+    "correct_option": "b"
+  },
+  {
+    "question": "The method of logic circuit simplification requires that the logic expression should be in sum-of-product form or product –of-sum form. Which of the following represents the SOP form?",
+    "qid": 6,
+    "option_a": "Y = A'B + CD' + EF",
+    "option_b": "Y= ABC + A'B'",
+    "option_c": "Y = A + B'C' + BD",
+    "option_d": "All of these",
+    "correct_option": "d"
+  }
+]
