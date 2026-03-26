@@ -1,1 +1,2 @@
-### Aim of the experiment
+To study the application of a combinational electronic lock using basic logic gates. 
+The user will be able to design a 4 digit electronic code lock using two-input basic logic gates. Using the generalized simulator, the user can implement his design and verify its working.
