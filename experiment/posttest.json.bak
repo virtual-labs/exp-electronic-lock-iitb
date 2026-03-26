@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the status of the electronic lock if the inputs A, B, C and D are set to logic 1?",
+    "qid": 1,
+    "option_a": "Close",
+    "option_b": "Open",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  },
+  {
+    "question": "Which of the following represents the Boolean expression for a three input electronic lock that operates when A = 1, B = 0, and C = 0?",
+    "qid": 2,
+    "option_a": "A.B.C",
+    "option_b": "A.B'.C'",
+    "option_c": "A + B' +C'",
+    "option_d": "A'. B. C",
+    "correct_option": "b"
+  },
+  {
+    "question": "For the four input electronic lock with inputs ABCD, it is desired to open the lock only when the majority of inputs are HIGH. Which of the following minterm expression describes this electronic lock?",
+    "qid": 3,
+    "option_a": "ABC +ABD'+ A'B'D'",
+    "option_b": "BCD + ABD +ACD +ABC",
+    "option_c": "A'B'C' +AB'C'D' + A'BC'D'",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "In order to achieve secured code for the electronic lock, the number of inputs should be _______.",
+    "qid": 4,
+    "option_a": "Decreased",
+    "option_b": "Increased",
+    "option_c": "Be the same",
+    "option_d": "Secured code does not depend on the number of inputs",
+    "correct_option": "b"
+  },
+  {
+    "question": "A novice tries to intrude an electronic lock with 5-inputs that opens only for one input combination. How many maximum trials he has to attempt to identify the right code?",
+    "qid": 5,
+    "option_a": "One",
+    "option_b": "Five",
+    "option_c": "Sixteen",
+    "option_d": "Thirty two",
+    "correct_option": "d"
+  }
+]
