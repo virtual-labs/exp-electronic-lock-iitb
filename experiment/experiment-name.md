@@ -1,1 +1,1 @@
-## Experiment name
+## Electronic lock using basic logic gates
